@@ -1,0 +1,26 @@
+{
+  "id": "SG-000008",
+  "title": "P06 — Voice-native spatial control",
+  "outcome": "Mckani supports interruptible push-to-talk spatial interaction with qualified local speech, spatial grounding, Command/Aside semantics and non-voice fallback.",
+  "schema_version": 1,
+  "rationale": "Program-level child specification. It must be progressively refined into smaller executable Grains before implementation.",
+  "parent_id": "SG-000001",
+  "scope_in": [],
+  "scope_out": [],
+  "acceptance": [],
+  "dependencies": [],
+  "risk": {},
+  "context": {},
+  "change_surface": [],
+  "evidence": {},
+  "method": "dmadv-lite",
+  "state": "DRAFT",
+  "children": [],
+  "labels": [
+    "p06",
+    "voice"
+  ],
+  "metadata": {
+    "planning_revision": "2026-09-23"
+  }
+}

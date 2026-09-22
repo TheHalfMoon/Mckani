@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "repository": "TheHalfMoon/Diffcipline",
+  "release": "v1.0.0",
+  "release_commit": "5cb1c77340b75649f6168e0e8f66479ea047ea96",
+  "immutable_release": true,
+  "observed_at": "2026-09-23",
+  "assets": {
+    "diffcipline-x86_64-pc-windows-msvc.exe": "sha256:5fee721d3837ab86f2c36003d02ca67ebac793ff8dadcdb3b7eea074690e57a8",
+    "diffcipline-x86_64-unknown-linux-gnu": "sha256:a456a35bbfe03c087737118a05176af33604e2b2d1e634f8810bef6762f4a2f0",
+    "diffcipline-aarch64-apple-darwin": "sha256:ecdf25c68ebce493a973c3e82a1c09356a7075eb3c2b14be88461b5b14aa0507"
+  },
+  "note": "P00 activates .diffcipline.toml only after real workspace commands exist."
+}

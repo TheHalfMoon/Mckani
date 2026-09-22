@@ -1,0 +1,27 @@
+{
+  "id": "SG-000019",
+  "title": "MCK-P00-S01-T01 — Establish the implementation workspace and verification baseline",
+  "outcome": "Mckani has one minimal reproducible implementation workspace with real formatting, static-analysis and test commands plus baseline CI, without importing mapping, model, provider, or donor product code.",
+  "schema_version": 1,
+  "rationale": "This is the first implementation candidate because every later Grain needs a real workspace and observable verification commands. It remains DRAFT until the canonical plan is merged and the pinned SpecGrain CLI shapes and promotes it.",
+  "parent_id": "SG-000002",
+  "scope_in": [],
+  "scope_out": [],
+  "acceptance": [],
+  "dependencies": [],
+  "risk": {},
+  "context": {},
+  "change_surface": [],
+  "evidence": {},
+  "method": "quick",
+  "state": "DRAFT",
+  "children": [],
+  "labels": [
+    "p00",
+    "foundation",
+    "first-candidate"
+  ],
+  "metadata": {
+    "planning_revision": "2026-09-23"
+  }
+}
