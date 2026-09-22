@@ -1,0 +1,28 @@
+{
+  "id": "SG-000002",
+  "title": "P00 — Governance and engineering foundation",
+  "outcome": "Mckani has a reproducible engineering foundation, ratified source/license boundaries, pinned planning/proof tooling, baseline CI, benchmark identity, and dependency/provider registries.",
+  "schema_version": 1,
+  "rationale": "Program-level child specification. It must be progressively refined into smaller executable Grains before implementation.",
+  "parent_id": "SG-000001",
+  "scope_in": [],
+  "scope_out": [],
+  "acceptance": [],
+  "dependencies": [],
+  "risk": {},
+  "context": {},
+  "change_surface": [],
+  "evidence": {},
+  "method": "controlled",
+  "state": "DRAFT",
+  "children": [
+    "SG-000019"
+  ],
+  "labels": [
+    "p00",
+    "governance"
+  ],
+  "metadata": {
+    "planning_revision": "2026-09-23"
+  }
+}
