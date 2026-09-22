@@ -1,0 +1,26 @@
+{
+  "id": "SG-000005",
+  "title": "P03 — Search, geocoding and identity resolution",
+  "outcome": "Mckani searches and resolves regional places, addresses and entities across Arabic and English with provenance, precision and governed conflation.",
+  "schema_version": 1,
+  "rationale": "Program-level child specification. It must be progressively refined into smaller executable Grains before implementation.",
+  "parent_id": "SG-000001",
+  "scope_in": [],
+  "scope_out": [],
+  "acceptance": [],
+  "dependencies": [],
+  "risk": {},
+  "context": {},
+  "change_surface": [],
+  "evidence": {},
+  "method": "dmadv-lite",
+  "state": "DRAFT",
+  "children": [],
+  "labels": [
+    "p03",
+    "search"
+  ],
+  "metadata": {
+    "planning_revision": "2026-09-23"
+  }
+}
