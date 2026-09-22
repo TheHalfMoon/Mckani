@@ -1,0 +1,26 @@
+{
+  "id": "SG-000015",
+  "title": "P13 — Builder platform",
+  "outcome": "Mckani exposes stable SDK, API, MCP and provider-extension contracts plus Builder Studio without leaking internal storage schemas or bypassing policy.",
+  "schema_version": 1,
+  "rationale": "Program-level child specification. It must be progressively refined into smaller executable Grains before implementation.",
+  "parent_id": "SG-000001",
+  "scope_in": [],
+  "scope_out": [],
+  "acceptance": [],
+  "dependencies": [],
+  "risk": {},
+  "context": {},
+  "change_surface": [],
+  "evidence": {},
+  "method": "dmadv-lite",
+  "state": "DRAFT",
+  "children": [],
+  "labels": [
+    "p13",
+    "builder"
+  ],
+  "metadata": {
+    "planning_revision": "2026-09-23"
+  }
+}
